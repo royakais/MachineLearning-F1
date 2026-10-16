@@ -20,11 +20,12 @@ A Formula 1 machine learning project focused on:
 ```bash
 MachineLearning-F1/
 │
-├── preprocessing/
-├── visualization/
-├── classification/
-├── regression/
-├── dataset/
+├── Data Preprocessing/
+├── Data Visualization/
+├── Data Classification/
+├── Data Regression/
+├── Trained Set/
+├── Test Set/
 └── README.md
 ```
 
